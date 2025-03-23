@@ -1,0 +1,9 @@
+{
+    "Browser": "Firefox",
+    "headless": false,
+    "WindowSize": {
+        "width": 1920,
+        "height": 1080
+    },
+    "implicitWaitSeconds": 10
+}
